@@ -177,7 +177,7 @@ HI 4613: History of the Soviet Union, Spring 2025     Instructor: Stephen Brain,
                 <p>"The assassin Nikolayev was apprehended at the scene... [REDACTED]... no evidence of wider conspiracy found... [REDACTED]... case closed by order of [REDACTED]."</p>
             </div>
             
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirov_funeral.jpg/800px-Kirov_funeral.jpg" alt="Kirov's funeral procession">
+            <img src="images.jpg" alt="Descriptive text for the image">
         </section>
 
         <section id="aftermath">
