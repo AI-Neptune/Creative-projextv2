@@ -124,7 +124,7 @@ HI 4613: History of the Soviet Union, Spring 2025     Instructor: Stephen Brain,
         <section id="introduction">
             <h2>Case Overview</h2>
             <p>On December 1, 1934, Sergei Kirov, the popular Leningrad Party leader, was assassinated in the Smolny Institute. This mysterious murder became the catalyst for Stalin's Great Purge, but historians still debate: Did Stalin orchestrate the killing or merely exploit it?</p>
-           <img src="images/download.jpg" alt="Descriptive text for the image">
+           <img src="images/download.jpg" alt="Download icon">
            
         </section>
 
@@ -195,11 +195,10 @@ HI 4613: History of the Soviet Union, Spring 2025     Instructor: Stephen Brain,
     <!-- Footer Section -->
     <footer>
         <p>
-            Created by Andrew F. Martin for HI 4613: History of the Soviet Union, Spring 2025.<br>
+             Created by Andrew F. Martin for HI 4613: History of the Soviet Union, Spring 2025.<br>
             Primary source: Robert Conquest's <i>Stalin and the Kirov Murder</i> (1989)<br>
-            <a href="https://www.history.com/this-day-in-history/december-1/sergey-kirov-murdered" target="_blank">Learn more at History.com</a>
-<a href="Final Draft.pdf" download>Download Final Draft</a>Learn more at History.com</a> and check out my paper here.
-
+            <a href="https://www.history.com/this-day-in-history/december-1/sergey-kirov-murdered" target="_blank">Learn more at History.com</a> 
+            | <a href="Final_Draft.pdf" download>Download Final Draft</a>
         </p>
     </footer>
 </body>
