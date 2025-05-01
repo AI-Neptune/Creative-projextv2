@@ -197,7 +197,9 @@ HI 4613: History of the Soviet Union, Spring 2025     Instructor: Stephen Brain,
         <p>
             Created by Andrew F. Martin for HI 4613: History of the Soviet Union, Spring 2025.<br>
             Primary source: Robert Conquest's <i>Stalin and the Kirov Murder</i> (1989)<br>
-            <a href="[https://www.britannica.com/event/Kirov-murder](https://www.history.com/this-day-in-history/december-1/sergey-kirov-murdered)" target="_blank">Learn more at Encyclopedia Britannica</a><a href="Final Draft.pdf" download>Download Final Draft</a>
+            <a href="https://www.history.com/this-day-in-history/december-1/sergey-kirov-murdered" target="_blank">Learn more at History.com</a>
+<a href="Final Draft.pdf" download>Download Final Draft</a>Learn more at History.com</a> and check out my paper here.
+            <a href="Final Draft.pdf" download>Download Final Draft</a>
         </p>
     </footer>
 </body>
